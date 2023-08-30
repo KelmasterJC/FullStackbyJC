@@ -1,0 +1,5 @@
+Números de teléfono: ^\d{10}$ (para números de 10 dígitos)
+Números enteros: ^-?\d+$ (para números enteros, opcionalmente negativos)
+Nombres de usuario: ^[a-zA-Z0-9_-]{3,16}$ (entre 3 y 16 caracteres alfanuméricos, guiones bajos y guiones)
+Códigos postales: ^\d{5}$ (para códigos postales de 5 dígitos)
+Correo Electrónico: [a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$

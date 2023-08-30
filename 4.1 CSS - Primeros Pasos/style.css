@@ -1,0 +1,36 @@
+body {
+    background-color: aqua;
+}
+
+.parrafo {
+    width: 100%;
+    background-color: blueviolet;
+    text-align: center;
+    font-weight: bold;
+}
+
+div {
+    background-color: bisque;
+}
+
+img {
+    padding: 5px;
+    border: 5px solid black;
+}
+
+.div p {
+    font-size: 25px;
+}
+
+button:hover {
+    background-color: brown;
+}
+
+.linkee:active {
+    color: #3cff00;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+}

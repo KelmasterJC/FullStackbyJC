@@ -1,0 +1,25 @@
+body {
+    width: 100hv;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+caption, tr, th, td {
+    border: 1px solid black;
+}
+
+#caption2 {
+    border: 1px solid black;
+    width: 10%;
+}
+
